@@ -2,6 +2,8 @@
 .chalice/venv/
 .chalice/config.json
 
+.DS_Store
+
 .idea
 
 ### Eclipse template
